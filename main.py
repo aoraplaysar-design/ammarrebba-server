@@ -13,7 +13,7 @@ app.secret_key = os.environ.get(
 )
 
 DISCORD_CLIENT_ID = "1546207967643439224"
-DISCORD_CLIENT_SECRET = os.environ.get("DISCORD_CLIENT_SECRET", "")
+DISCORD_CLIENT_SECRET =RGWYWDdy1Yr3WKFx_vs_4eQ2Lvdo2UM0 os.environ.get("DISCORD_CLIENT_SECRET", "")
 BASE_URL = os.environ.get("BASE_URL", "").rstrip("/")
 
 DISCORD_AUTHORIZE_URL = "https://discord.com/oauth2/authorize"
